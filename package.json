@@ -29,6 +29,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.0",
     "@pinata/sdk": "^2.1.0",
+    "axios": "^1.4.0",
     "ipfs-core": "^0.17.0"
   }
 }
